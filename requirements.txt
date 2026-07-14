@@ -3,3 +3,4 @@ tgcrypto
 python-dotenv
 motor
 pymongo
+python-telegram-bot==20.8
